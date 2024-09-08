@@ -17,4 +17,4 @@ The repository contains the following main files:
 1. Clone the repository:
    ```bash
    git clone https://github.com/PawanGu/mechanical-data-analytics.git
-   cd repository-name
+   cd mechanical-data-analytics
