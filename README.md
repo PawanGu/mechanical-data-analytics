@@ -1,6 +1,6 @@
-# Project Title: Data Center ARIMA Time Series Forecasting
+# Data Center ARIMA Time Series Forecasting
 
-## Project Overview
+## Overview
 This project implements an ARIMA (AutoRegressive Integrated Moving Average) model to forecast time series data related to energy, cooling, or any other system in data centers. The code generates synthetic data, fits the ARIMA model, and provides diagnostic tools to evaluate the model's performance.
 
 ## Code Explanation
