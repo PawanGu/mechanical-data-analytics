@@ -16,5 +16,5 @@ The repository contains the following main files:
 ## How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/PawanGu/mechanical-data-analytics.git
    cd repository-name
