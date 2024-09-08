@@ -18,3 +18,4 @@ The repository contains the following main files:
    ```bash
    git clone https://github.com/PawanGu/mechanical-data-analytics.git
    cd mechanical-data-analytics
+   python main.py
